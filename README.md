@@ -1,0 +1,2 @@
+# Food-forecasting
+A food delivery service has to deal with a lot of perishable raw materials which makes it all the more important for such a company to accurately forecast daily and weekly demand. In this project, my main target was to determine number of orders in different locations based on features provided. I tried to convert categorical data using one hot encoding method and applied various data manipulating methods.
